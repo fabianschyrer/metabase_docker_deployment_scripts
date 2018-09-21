@@ -1,4 +1,4 @@
-# metabase_docker_deployment_scripts
+# README - metabase_docker_deployment_scripts
 Various Shell Scripts to automatically deploy containerized Metabase (Docker)  <br/>
 
 Install AWS CLI <br/>
